@@ -5,9 +5,10 @@
 </h3>
 <h2>
   We use:
-  ctx = canvas.getContext("2d");
+  CanvasRenderingContext2D
 </h2>
 
+    https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
   <h3>Content<h3>
             <ul>
               <li>Car driving mechanics </li>
