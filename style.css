@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background: rgb(255, 255, 255);
+    overflow: hidden;
+    text-align: center;
+}
+
+#mainCanvas{
+    background: white;    
+}
+
+.title-h1{
+    color: red !important;
+}
